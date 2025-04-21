@@ -27,7 +27,12 @@ A simple and efficient Python desktop application to download YouTube videos in 
 ## Preview
 
 ![image](https://github.com/user-attachments/assets/465aa3d0-9532-4cf2-b2ba-de02048d61da)
- 
+
+- The application features a minimalist dark-themed GUI built with Tkinter, designed for clarity and ease of use.
+
+- Users can input a YouTube URL, select a download destination folder, and initiate the download with a single click.
+
+- A progress bar runs during downloads to indicate activity, while pop-up messages provide real-time feedback on success or errors.
 
 ---
 
